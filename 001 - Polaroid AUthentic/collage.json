@@ -14,7 +14,7 @@
     "text_linespace": "10",
     "apply_frame": "",
     "frame": "",
-    "background": "",
+    "background": "background.jpg",
     "portrait": true,
     "rotate_after_creation": false,
     "layout": [
