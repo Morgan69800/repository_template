@@ -1,0 +1,29 @@
+{
+    "width": "1772",
+    "height": "1181",
+    "text_custom_style": true,
+    "text_font_size": "125",
+    "text_rotation": "0",
+    "text_locationx": "200",
+    "text_locationy": "1500",
+    "text_font_color": "#420C09",
+    "text_font": "\/var\/www\/html\/private\/template\/Roots N Branches.ttf",
+    "text_line1": "Micka 20 ans",
+    "text_line2": "dd",
+    "text_line3": "fff",
+    "text_linespace": "10",
+    "apply_frame": "",
+    "frame": "",
+    "background": "",
+    "portrait": true,
+    "rotate_after_creation": false,
+    "layout": [
+        [
+            "100",
+            "100",
+            "1.8 * y * 0.3146",
+            "y * 0.65",
+            "0"
+        ]
+    ]
+}
